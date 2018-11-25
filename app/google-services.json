@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "49907994448",
+    "firebase_url": "https://whatsup-b16d5.firebaseio.com",
+    "project_id": "whatsup-b16d5",
+    "storage_bucket": "whatsup-b16d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49907994448:android:9f21f7efc33b92e0",
+        "android_client_info": {
+          "package_name": "com.example.serdo.whatsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49907994448-43ptpvuodl9ru52pij7eou6k4fs0sscb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYr0ZhOaSR009UxamBZbXVQvJOtoAqisw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
